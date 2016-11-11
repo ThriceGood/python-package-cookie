@@ -1,1 +1,9 @@
 -r requirements.txt
+pep8
+autopep8
+bumpversion
+pudb
+unittest2
+nose
+mock
+
